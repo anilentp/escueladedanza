@@ -1,0 +1,90 @@
+
+.dancers{
+	max-width: 1363px;
+}
+.text{
+	color: #B0B2B5;
+	position: absolute;
+	top: 30%;
+	left: 10%;
+}
+.boton{
+	display: inline-block;
+	background-color:#000F49;
+	padding: 10px 30px;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+h1{
+	font-size: 70px;
+}
+.fondo{
+	background-repeat: repeat;
+	max-width: 1363px;
+	position: absolute;
+	top: 94%;
+	left: 0;
+}
+.frase{
+	position: absolute;
+	left:10%;
+}
+.decoration{
+	display: inline-block;
+	max-width: 400px;
+	max-height: 200px;
+}
+.titlepage{
+	background: #000F49;
+	color: white;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	text-align: center;
+	display: inline;
+	position: absolute;
+	left: 30%;
+	top: 240px;
+}
+.backteacher{
+	display: inline;
+	height: 400px;
+	position: relative;
+	top: 350px;
+}
+.backteacherleft{
+	position: absolute;
+	left: 1%;
+}
+.backteacherright{
+	position: absolute;
+	right: 1%;
+}
+.fondo2{
+	background-repeat: no-repeat;
+	max-width: 1363px;
+	position: absolute;
+	top: 219%;
+	left: 0;
+}
+.dance{
+	position: absolute;
+	top: 250%;
+	left: 0;
+	text-align: center;
+}
+.map{
+	position: relative;
+	top: 800px;
+	background-color: #192951;
+	height: 400px;
+}
+.contacto{
+	position: relative;
+	top: 1000px;
+	background-color: #192951;
+	height: 400px;
+}
+
+

@@ -1,0 +1,21 @@
+.title{
+	background-color: white;
+	color: #111E30;
+	margin: 5% 0;
+}
+a:link{
+	text-decoration: none;
+	text-align: center;
+	color: #B0B2B5;
+}
+a:hover{
+	color: #0F3A81;
+}
+li{
+	display: inline;
+	margin: 5% 0;
+}
+.menu{
+	position: relative;
+	left: 15%;
+}
